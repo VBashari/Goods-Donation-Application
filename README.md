@@ -40,9 +40,9 @@ As the donation process is simplified and made safer through users’ reportings
 - The system allows for the generation of donation records for tax write-ups.
 
 ### Team members
-Arbi Parllaku
-David Osoja
-Henrid Lleshaj
-Kristian Gjinopulli
-Lorna Gjidia
+Arbi Parllaku <br />
+David Osoja <br />
+Henrid Lleshaj <br />
+Kristian Gjinopulli <br />
+Lorna Gjidia <br />
 Viktoria Bashari
